@@ -15,9 +15,9 @@
 
 -Final Score = Score * %attendance
 
-[#การบ้าน(Hw)](#%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94)
-Final Score = Score * %attendance
+
 #การบ้าน(Hw)
+https://colab.research.google.com/github/643021273-8/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb
 
 
 
